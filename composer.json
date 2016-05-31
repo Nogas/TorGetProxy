@@ -1,0 +1,21 @@
+{
+    "name": "TorGetProxy",
+    "description": "A wrapper to work with free proxy inside PHP.",
+    "version": "1.0.0",
+    "type": "library",
+    "keywords": ["TorGetProxy", "Proxy", "anonymous"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Stemax",
+            "email": "jtmp@yandex.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/stemax/TorGetProxy/issues",
+        "source": "https://github.com/stemax/TorGetProxy"
+    },
+    "require": {
+      "curl/curl": "dev-master"
+    }
+}
